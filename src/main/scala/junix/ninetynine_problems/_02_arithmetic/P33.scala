@@ -1,6 +1,6 @@
 package junix.ninetynine_problems._02_arithmetic
 
-import com.shekhargulati.ninetynine_problems._01_lists.P10
+import junix.ninetynine_problems._01_lists.P10
 
 /**
   * (**) Determine the prime factors of a given positive integer (2)
